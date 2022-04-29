@@ -1,0 +1,16 @@
+{
+    "name": "lucas/ajax-in-modal",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Lucas\\AjaxInModal\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Lucas-Ayabe",
+            "email": "lucas.ayabe@gmail.com"
+        }
+    ],
+    "require": {}
+}

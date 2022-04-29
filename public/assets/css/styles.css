@@ -1,0 +1,12 @@
+header {
+    padding-bottom: 0 !important;
+}
+
+header + main {
+    padding-top: 0;
+}
+
+button.inline {
+    display: inline-block;
+    width: auto;
+}
